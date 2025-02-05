@@ -1,4 +1,4 @@
-<img src="static/logo.svg" alt="Velox logo" width="50%" align="center" />
+idont understandwhat the fuck you wont me two do at this goofy fuck bullshit close the hole fucking place down there absolutelyno fucking help for no one her and they steel your monny id repo it all close itbdown and kick everyonethe fuck out of her i wood work here dor a trullion doller they fuck your hole fucking life up and what the fuck are you fucking talking about no one ell me anything iork  would never gree tow<imghere they all kill people fuck right off close the hole fuckimg place down they lieing src="staticithfucking people 9%off the /logo.svg" alt="Velox logo" width="50%" align="center" />
 
 Velox is a composable execution engine distributed as an open source C++
 library. It provides reusable, extensible, and high-performance data processing
